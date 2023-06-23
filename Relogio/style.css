@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 0.5em;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#clock {
+  font-size: 5em;
+  font-family: Arial, Helvetica, sans-serif;
+}

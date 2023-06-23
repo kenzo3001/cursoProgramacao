@@ -1,0 +1,28 @@
+.container {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 3em;
+  margin-bottom: 0.5em;
+}
+
+#display {
+  font-size: 5em;
+  margin-bottom: 0.5em;
+}
+
+button {
+  background-color: crimson;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.5em;
+  padding: 0.5em 1em;
+  margin: 0 0.5em;
+}
+
+body {
+  background-color: whitesmoke;
+}

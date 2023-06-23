@@ -1,0 +1,31 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 40vh;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+button{
+  background-color: purple;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  border: 10px;
+  border-radius: 15px;
+  font-size: 16px;
+  padding: 5px 10px;
+}
+input {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+#result {
+  font-size: 20px;
+  font-weight: bold;
+}
