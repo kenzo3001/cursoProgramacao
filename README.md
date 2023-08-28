@@ -3,4 +3,4 @@ Estou realizando meu segundo curso de programação onde estou aprendendo C/C++,
 - ``JavaScript``
 - ``HTML 5``
 - ``CSS3``
-- ``C``
+- ``C/C++``
