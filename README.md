@@ -1,6 +1,6 @@
-# Meu primeiro curso de programação
-Esses projetos já estão concluídos, todos foram realizados por mim com o objetivo de praticar as linguagens HTML, CSS e JavaScript. Essas três linguagens foram oferecidas no curso que realizei na plataforma Udemy.
-## ✔️ Técnologias utilizadas
+# Cursos de programação
+Estou realizando meu segundo curso de programação onde estou aprendendo C/C++, já realizei outro curso onde eu desenvolvi minhas habilidades em HTML5, CSS3 e JavaScript. Sempre em busca de novos horizontes.
 - ``JavaScript``
 - ``HTML 5``
 - ``CSS3``
+- ``C``
