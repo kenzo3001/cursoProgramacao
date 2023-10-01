@@ -1,6 +1,7 @@
 # Cursos de programação
-Estou realizando meu segundo curso de programação onde estou aprendendo C/C++, já realizei outro curso onde eu desenvolvi minhas habilidades em HTML5, CSS3 e JavaScript. Sempre em busca de novos horizontes.
+Nesse repositorio vocês vão encontrar alguns cursos que eu já realizei e os projetos proposto pelos grupo docente da minha faculdade. Sempre aprendendo mais!!
 - ``JavaScript``
 - ``HTML 5``
 - ``CSS3``
 - ``C/C++``
+- ``Java``
